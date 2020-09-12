@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ConsumerAPI/.vs/ConsumerAPI/DesignTimeBuild
+/ConsumerAPI/bin/Debug/netcoreapp3.1
+/ConsumerAPI/obj
+/FailingApi/.vs/FailingApi/DesignTimeBuild
+/FailingApi/bin/Debug/netcoreapp3.1
+/FailingApi/obj
